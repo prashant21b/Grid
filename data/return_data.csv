@@ -1,0 +1,2523 @@
+ReturnID,PurchaseID,Reason
+1,1,Too large
+2,2,Too small
+3,7,Too large
+4,9,Wrong item
+5,13,Too small
+6,14,Too small
+7,15,Too small
+8,18,Too large
+9,19,Wrong item
+10,21,Damaged
+11,22,Too large
+12,25,Too large
+13,26,Damaged
+14,27,Quality issue
+15,29,Too large
+16,31,Damaged
+17,32,Unwanted
+18,37,Too small
+19,38,Too large
+20,41,Too small
+21,42,Too large
+22,45,Quality issue
+23,46,Too small
+24,47,Too small
+25,51,Too small
+26,52,Too small
+27,58,Wrong item
+28,59,Unwanted
+29,60,Too large
+30,63,Damaged
+31,66,Too small
+32,70,Too large
+33,71,Too small
+34,73,Too small
+35,74,Wrong item
+36,76,Too small
+37,77,Damaged
+38,79,Wrong item
+39,80,Quality issue
+40,84,Too small
+41,88,Damaged
+42,89,Too large
+43,91,Too large
+44,92,Unwanted
+45,97,Quality issue
+46,99,Wrong item
+47,100,Too large
+48,101,Unwanted
+49,102,Unwanted
+50,103,Quality issue
+51,105,Too small
+52,107,Wrong item
+53,112,Damaged
+54,116,Quality issue
+55,117,Damaged
+56,119,Unwanted
+57,121,Damaged
+58,123,Too small
+59,124,Unwanted
+60,127,Too small
+61,129,Wrong item
+62,130,Too large
+63,131,Damaged
+64,135,Wrong item
+65,136,Too small
+66,138,Too large
+67,140,Too large
+68,141,Too small
+69,142,Too small
+70,143,Damaged
+71,144,Too small
+72,145,Unwanted
+73,146,Wrong item
+74,147,Too small
+75,149,Unwanted
+76,157,Unwanted
+77,162,Unwanted
+78,166,Too large
+79,167,Too small
+80,171,Too small
+81,172,Too large
+82,175,Too small
+83,176,Damaged
+84,177,Too large
+85,185,Too small
+86,186,Too large
+87,187,Unwanted
+88,189,Too large
+89,190,Damaged
+90,193,Too large
+91,197,Wrong item
+92,198,Too large
+93,200,Too small
+94,201,Too small
+95,202,Wrong item
+96,204,Unwanted
+97,205,Damaged
+98,206,Too large
+99,207,Too large
+100,211,Wrong item
+101,212,Too large
+102,213,Too large
+103,214,Too small
+104,215,Quality issue
+105,216,Too large
+106,219,Quality issue
+107,221,Too large
+108,222,Unwanted
+109,223,Too small
+110,225,Damaged
+111,226,Too small
+112,228,Quality issue
+113,232,Quality issue
+114,234,Damaged
+115,237,Too large
+116,238,Too small
+117,240,Too small
+118,242,Unwanted
+119,243,Too small
+120,244,Damaged
+121,246,Wrong item
+122,247,Too small
+123,250,Too small
+124,252,Too large
+125,255,Too large
+126,258,Too small
+127,259,Quality issue
+128,260,Damaged
+129,262,Quality issue
+130,264,Too small
+131,266,Damaged
+132,267,Too large
+133,268,Too large
+134,269,Unwanted
+135,270,Too large
+136,271,Wrong item
+137,272,Too large
+138,274,Unwanted
+139,276,Quality issue
+140,279,Too small
+141,281,Damaged
+142,282,Too small
+143,283,Too large
+144,287,Quality issue
+145,289,Too large
+146,291,Too large
+147,292,Wrong item
+148,294,Quality issue
+149,297,Too large
+150,299,Too large
+151,301,Too large
+152,310,Quality issue
+153,315,Unwanted
+154,317,Too large
+155,318,Too small
+156,319,Too small
+157,320,Too large
+158,321,Too large
+159,322,Quality issue
+160,323,Too large
+161,327,Too large
+162,331,Too large
+163,334,Quality issue
+164,336,Damaged
+165,337,Too large
+166,338,Too large
+167,342,Too small
+168,343,Wrong item
+169,347,Too large
+170,348,Too large
+171,349,Unwanted
+172,351,Too small
+173,352,Unwanted
+174,356,Too small
+175,359,Too small
+176,360,Too small
+177,363,Too large
+178,365,Too small
+179,367,Damaged
+180,368,Too small
+181,370,Too small
+182,372,Quality issue
+183,376,Quality issue
+184,377,Unwanted
+185,381,Quality issue
+186,383,Too large
+187,385,Too small
+188,391,Too small
+189,392,Quality issue
+190,394,Too large
+191,396,Quality issue
+192,397,Too small
+193,398,Too small
+194,400,Wrong item
+195,403,Too small
+196,404,Damaged
+197,406,Quality issue
+198,408,Too small
+199,409,Quality issue
+200,412,Too large
+201,414,Too small
+202,416,Wrong item
+203,420,Damaged
+204,423,Unwanted
+205,424,Quality issue
+206,426,Wrong item
+207,427,Too large
+208,429,Too large
+209,430,Wrong item
+210,431,Unwanted
+211,433,Too large
+212,434,Too small
+213,437,Too small
+214,439,Damaged
+215,441,Too large
+216,442,Wrong item
+217,446,Too large
+218,447,Wrong item
+219,451,Quality issue
+220,452,Too small
+221,453,Too small
+222,454,Too large
+223,455,Wrong item
+224,458,Too small
+225,463,Too large
+226,465,Too large
+227,470,Too large
+228,474,Too large
+229,475,Quality issue
+230,476,Unwanted
+231,478,Too small
+232,480,Too small
+233,483,Quality issue
+234,484,Too large
+235,485,Too small
+236,487,Wrong item
+237,490,Damaged
+238,492,Unwanted
+239,493,Damaged
+240,494,Too small
+241,496,Too small
+242,498,Too large
+243,499,Too small
+244,500,Too small
+245,502,Too small
+246,503,Damaged
+247,505,Damaged
+248,506,Too small
+249,509,Unwanted
+250,510,Too small
+251,512,Damaged
+252,513,Too large
+253,516,Too small
+254,521,Damaged
+255,522,Too large
+256,523,Too small
+257,525,Wrong item
+258,532,Quality issue
+259,534,Too large
+260,535,Quality issue
+261,538,Unwanted
+262,547,Too small
+263,548,Too large
+264,549,Unwanted
+265,550,Unwanted
+266,551,Too small
+267,552,Too small
+268,554,Quality issue
+269,556,Unwanted
+270,557,Too small
+271,558,Too large
+272,559,Too small
+273,560,Quality issue
+274,561,Quality issue
+275,563,Unwanted
+276,566,Too small
+277,570,Too small
+278,572,Too large
+279,573,Wrong item
+280,574,Too large
+281,575,Too small
+282,577,Too small
+283,578,Quality issue
+284,579,Too large
+285,580,Too large
+286,582,Damaged
+287,583,Unwanted
+288,587,Too large
+289,591,Damaged
+290,593,Too large
+291,595,Too small
+292,596,Too small
+293,598,Damaged
+294,600,Quality issue
+295,601,Too large
+296,603,Quality issue
+297,604,Too large
+298,605,Wrong item
+299,606,Too small
+300,607,Wrong item
+301,610,Too large
+302,614,Too large
+303,615,Too small
+304,617,Too large
+305,618,Too small
+306,620,Too large
+307,623,Too large
+308,627,Too large
+309,628,Too large
+310,629,Too small
+311,631,Too large
+312,632,Too small
+313,633,Quality issue
+314,634,Quality issue
+315,637,Unwanted
+316,638,Unwanted
+317,639,Too large
+318,642,Too small
+319,643,Damaged
+320,647,Damaged
+321,648,Quality issue
+322,649,Too large
+323,651,Too small
+324,653,Too small
+325,655,Too large
+326,658,Too small
+327,659,Too large
+328,660,Too small
+329,661,Too small
+330,667,Too large
+331,668,Too large
+332,670,Unwanted
+333,672,Damaged
+334,674,Too large
+335,676,Quality issue
+336,679,Too small
+337,680,Unwanted
+338,681,Damaged
+339,684,Too small
+340,685,Wrong item
+341,687,Quality issue
+342,688,Too small
+343,689,Too large
+344,691,Too large
+345,694,Too small
+346,697,Too large
+347,702,Too large
+348,706,Quality issue
+349,711,Too large
+350,712,Too small
+351,713,Damaged
+352,716,Too large
+353,718,Wrong item
+354,722,Too large
+355,723,Quality issue
+356,727,Too large
+357,734,Quality issue
+358,735,Too large
+359,737,Too small
+360,740,Too large
+361,742,Too large
+362,744,Too large
+363,745,Damaged
+364,747,Too large
+365,751,Damaged
+366,752,Too large
+367,753,Too small
+368,754,Quality issue
+369,759,Too small
+370,762,Wrong item
+371,763,Too small
+372,766,Too small
+373,767,Quality issue
+374,770,Too small
+375,771,Too small
+376,772,Too small
+377,773,Too small
+378,774,Wrong item
+379,775,Unwanted
+380,776,Too small
+381,777,Too large
+382,778,Wrong item
+383,780,Too large
+384,782,Too small
+385,783,Unwanted
+386,784,Too large
+387,785,Damaged
+388,786,Too large
+389,787,Too large
+390,789,Too large
+391,798,Too large
+392,799,Unwanted
+393,801,Too large
+394,802,Too small
+395,804,Too large
+396,806,Too small
+397,807,Too small
+398,810,Too large
+399,811,Too small
+400,812,Too small
+401,813,Too large
+402,817,Damaged
+403,819,Too small
+404,824,Too small
+405,825,Too small
+406,826,Too small
+407,829,Quality issue
+408,830,Damaged
+409,832,Too large
+410,834,Wrong item
+411,837,Too small
+412,838,Too large
+413,839,Too large
+414,840,Wrong item
+415,842,Too large
+416,845,Too small
+417,849,Wrong item
+418,850,Quality issue
+419,852,Quality issue
+420,853,Too large
+421,856,Quality issue
+422,857,Too large
+423,861,Quality issue
+424,862,Too large
+425,863,Too large
+426,864,Too small
+427,868,Too small
+428,870,Too large
+429,871,Damaged
+430,873,Wrong item
+431,874,Too small
+432,875,Quality issue
+433,876,Too small
+434,878,Too small
+435,879,Quality issue
+436,881,Too small
+437,884,Too small
+438,885,Too large
+439,886,Too small
+440,887,Too small
+441,888,Too large
+442,889,Too small
+443,892,Wrong item
+444,898,Too large
+445,900,Too large
+446,901,Too small
+447,903,Too large
+448,904,Too small
+449,909,Too large
+450,910,Too large
+451,911,Too large
+452,913,Too large
+453,916,Too large
+454,920,Too large
+455,925,Quality issue
+456,926,Wrong item
+457,927,Too small
+458,929,Too small
+459,935,Too small
+460,936,Too small
+461,937,Quality issue
+462,939,Too large
+463,940,Wrong item
+464,941,Too small
+465,942,Damaged
+466,943,Quality issue
+467,944,Too small
+468,945,Too large
+469,946,Too large
+470,950,Too small
+471,952,Damaged
+472,953,Too large
+473,954,Too large
+474,955,Quality issue
+475,957,Too large
+476,958,Too large
+477,962,Too large
+478,963,Too large
+479,969,Too small
+480,970,Too small
+481,972,Too small
+482,973,Too large
+483,975,Too small
+484,977,Too large
+485,978,Too large
+486,979,Damaged
+487,981,Too small
+488,982,Wrong item
+489,986,Too small
+490,987,Quality issue
+491,990,Damaged
+492,995,Unwanted
+493,997,Unwanted
+494,1003,Too large
+495,1005,Too large
+496,1006,Too small
+497,1011,Unwanted
+498,1012,Wrong item
+499,1013,Too large
+500,1015,Damaged
+501,1017,Unwanted
+502,1020,Damaged
+503,1023,Too small
+504,1025,Too large
+505,1030,Too small
+506,1031,Too small
+507,1033,Quality issue
+508,1034,Too small
+509,1041,Too small
+510,1044,Damaged
+511,1046,Too small
+512,1048,Too large
+513,1049,Too large
+514,1050,Too small
+515,1051,Quality issue
+516,1054,Quality issue
+517,1058,Too large
+518,1059,Too small
+519,1061,Quality issue
+520,1063,Too large
+521,1064,Too large
+522,1065,Too small
+523,1067,Too large
+524,1068,Too large
+525,1069,Unwanted
+526,1075,Too small
+527,1077,Unwanted
+528,1078,Damaged
+529,1079,Too large
+530,1081,Too large
+531,1083,Quality issue
+532,1085,Too small
+533,1086,Too small
+534,1087,Too large
+535,1088,Too large
+536,1089,Too small
+537,1090,Damaged
+538,1092,Too small
+539,1093,Too small
+540,1097,Too small
+541,1098,Unwanted
+542,1100,Quality issue
+543,1102,Wrong item
+544,1103,Too large
+545,1104,Quality issue
+546,1105,Too large
+547,1106,Too small
+548,1107,Too large
+549,1109,Too large
+550,1111,Too small
+551,1112,Too large
+552,1113,Too large
+553,1114,Too large
+554,1118,Too large
+555,1120,Damaged
+556,1122,Unwanted
+557,1123,Quality issue
+558,1124,Too small
+559,1125,Unwanted
+560,1126,Too large
+561,1127,Too large
+562,1128,Too large
+563,1130,Wrong item
+564,1131,Unwanted
+565,1133,Unwanted
+566,1135,Unwanted
+567,1137,Unwanted
+568,1140,Too large
+569,1141,Too large
+570,1144,Damaged
+571,1147,Damaged
+572,1149,Too large
+573,1150,Wrong item
+574,1152,Too large
+575,1153,Quality issue
+576,1154,Quality issue
+577,1155,Quality issue
+578,1156,Too small
+579,1158,Too small
+580,1160,Wrong item
+581,1161,Too small
+582,1163,Damaged
+583,1164,Wrong item
+584,1165,Unwanted
+585,1166,Too large
+586,1168,Wrong item
+587,1169,Quality issue
+588,1170,Too small
+589,1171,Quality issue
+590,1173,Too small
+591,1174,Too large
+592,1175,Damaged
+593,1176,Too small
+594,1179,Too large
+595,1181,Too small
+596,1182,Too small
+597,1183,Damaged
+598,1184,Too small
+599,1192,Unwanted
+600,1194,Too large
+601,1195,Unwanted
+602,1199,Too small
+603,1200,Unwanted
+604,1201,Too small
+605,1202,Too small
+606,1205,Wrong item
+607,1211,Too large
+608,1212,Too large
+609,1214,Unwanted
+610,1216,Too small
+611,1217,Too small
+612,1218,Too small
+613,1219,Wrong item
+614,1223,Too small
+615,1224,Too small
+616,1227,Too small
+617,1230,Too large
+618,1233,Too small
+619,1234,Unwanted
+620,1237,Too large
+621,1238,Too small
+622,1239,Too small
+623,1241,Too small
+624,1242,Too large
+625,1243,Too large
+626,1244,Wrong item
+627,1246,Too large
+628,1247,Too small
+629,1249,Too small
+630,1253,Too large
+631,1255,Unwanted
+632,1257,Too small
+633,1263,Damaged
+634,1266,Too large
+635,1267,Too large
+636,1268,Damaged
+637,1270,Too small
+638,1273,Too small
+639,1276,Too small
+640,1278,Unwanted
+641,1280,Wrong item
+642,1282,Too small
+643,1285,Quality issue
+644,1288,Too large
+645,1289,Damaged
+646,1295,Too large
+647,1296,Quality issue
+648,1298,Quality issue
+649,1301,Damaged
+650,1302,Too large
+651,1304,Too small
+652,1305,Too small
+653,1306,Too small
+654,1307,Damaged
+655,1309,Too small
+656,1311,Too large
+657,1312,Too small
+658,1313,Too large
+659,1314,Too large
+660,1316,Too large
+661,1318,Too large
+662,1327,Damaged
+663,1330,Too small
+664,1331,Quality issue
+665,1335,Unwanted
+666,1337,Wrong item
+667,1338,Damaged
+668,1340,Too large
+669,1342,Too small
+670,1343,Damaged
+671,1345,Too small
+672,1346,Too large
+673,1349,Too small
+674,1353,Damaged
+675,1355,Wrong item
+676,1356,Wrong item
+677,1360,Too large
+678,1361,Unwanted
+679,1364,Wrong item
+680,1365,Damaged
+681,1371,Too small
+682,1374,Damaged
+683,1377,Too large
+684,1378,Too small
+685,1382,Too small
+686,1383,Too large
+687,1384,Too small
+688,1385,Wrong item
+689,1386,Too large
+690,1387,Too large
+691,1388,Quality issue
+692,1391,Too small
+693,1392,Damaged
+694,1393,Too large
+695,1395,Unwanted
+696,1396,Too small
+697,1397,Quality issue
+698,1402,Wrong item
+699,1405,Too large
+700,1406,Damaged
+701,1407,Too small
+702,1408,Wrong item
+703,1409,Too small
+704,1411,Damaged
+705,1412,Too small
+706,1413,Quality issue
+707,1416,Too small
+708,1417,Too large
+709,1419,Too large
+710,1420,Too large
+711,1422,Too large
+712,1423,Quality issue
+713,1424,Too small
+714,1425,Too large
+715,1427,Unwanted
+716,1428,Unwanted
+717,1429,Too large
+718,1431,Too large
+719,1432,Too large
+720,1435,Too small
+721,1441,Damaged
+722,1443,Too small
+723,1444,Wrong item
+724,1447,Damaged
+725,1448,Too small
+726,1450,Too small
+727,1454,Too large
+728,1455,Too large
+729,1456,Too large
+730,1457,Damaged
+731,1461,Too large
+732,1462,Too large
+733,1470,Too large
+734,1471,Too small
+735,1473,Unwanted
+736,1474,Too small
+737,1479,Unwanted
+738,1481,Too large
+739,1482,Too small
+740,1483,Too large
+741,1485,Damaged
+742,1486,Too small
+743,1488,Too large
+744,1489,Wrong item
+745,1491,Wrong item
+746,1492,Wrong item
+747,1494,Damaged
+748,1497,Too small
+749,1498,Too small
+750,1499,Too large
+751,1502,Damaged
+752,1503,Quality issue
+753,1505,Too small
+754,1516,Too small
+755,1518,Too small
+756,1520,Wrong item
+757,1521,Too large
+758,1522,Too small
+759,1525,Too small
+760,1526,Too large
+761,1528,Too small
+762,1533,Damaged
+763,1536,Too small
+764,1537,Damaged
+765,1540,Too small
+766,1542,Too small
+767,1545,Too large
+768,1547,Wrong item
+769,1548,Wrong item
+770,1551,Too large
+771,1552,Too small
+772,1554,Quality issue
+773,1557,Damaged
+774,1558,Quality issue
+775,1559,Unwanted
+776,1562,Too small
+777,1568,Too large
+778,1570,Damaged
+779,1575,Quality issue
+780,1576,Too small
+781,1577,Wrong item
+782,1578,Too small
+783,1580,Quality issue
+784,1581,Quality issue
+785,1582,Too small
+786,1583,Wrong item
+787,1585,Too small
+788,1586,Too large
+789,1587,Wrong item
+790,1588,Damaged
+791,1592,Too large
+792,1596,Too small
+793,1597,Quality issue
+794,1598,Too large
+795,1605,Damaged
+796,1607,Unwanted
+797,1610,Too large
+798,1612,Damaged
+799,1613,Too large
+800,1614,Too small
+801,1615,Too small
+802,1618,Too large
+803,1619,Too small
+804,1620,Too small
+805,1621,Too small
+806,1623,Too large
+807,1625,Too small
+808,1626,Too small
+809,1627,Too large
+810,1630,Unwanted
+811,1631,Too large
+812,1633,Unwanted
+813,1634,Too large
+814,1635,Unwanted
+815,1637,Unwanted
+816,1639,Too large
+817,1641,Too large
+818,1644,Too large
+819,1649,Wrong item
+820,1651,Too small
+821,1656,Too large
+822,1658,Damaged
+823,1659,Too small
+824,1661,Too large
+825,1664,Too large
+826,1669,Too large
+827,1670,Wrong item
+828,1671,Too small
+829,1674,Quality issue
+830,1675,Damaged
+831,1676,Wrong item
+832,1677,Quality issue
+833,1678,Damaged
+834,1680,Unwanted
+835,1681,Too small
+836,1682,Too small
+837,1685,Too large
+838,1686,Too large
+839,1691,Too large
+840,1694,Unwanted
+841,1696,Too large
+842,1697,Too small
+843,1698,Too small
+844,1699,Too small
+845,1700,Too large
+846,1701,Quality issue
+847,1706,Too small
+848,1708,Too large
+849,1709,Too small
+850,1710,Wrong item
+851,1712,Too small
+852,1713,Too small
+853,1719,Wrong item
+854,1722,Too large
+855,1723,Too small
+856,1725,Too small
+857,1726,Too large
+858,1727,Unwanted
+859,1728,Too large
+860,1731,Too large
+861,1734,Too large
+862,1735,Too large
+863,1738,Too large
+864,1742,Too large
+865,1745,Too small
+866,1746,Too small
+867,1747,Damaged
+868,1751,Unwanted
+869,1752,Damaged
+870,1753,Too large
+871,1754,Unwanted
+872,1756,Too large
+873,1760,Unwanted
+874,1761,Quality issue
+875,1764,Too large
+876,1766,Too small
+877,1767,Too large
+878,1769,Unwanted
+879,1771,Too small
+880,1773,Damaged
+881,1778,Too large
+882,1779,Too large
+883,1781,Too large
+884,1783,Unwanted
+885,1784,Too small
+886,1785,Too small
+887,1790,Unwanted
+888,1791,Too large
+889,1792,Too large
+890,1795,Unwanted
+891,1798,Unwanted
+892,1800,Too large
+893,1801,Too large
+894,1802,Damaged
+895,1804,Too small
+896,1807,Too large
+897,1809,Unwanted
+898,1811,Unwanted
+899,1814,Too small
+900,1815,Unwanted
+901,1816,Too small
+902,1817,Wrong item
+903,1818,Too small
+904,1820,Too small
+905,1823,Wrong item
+906,1832,Too small
+907,1833,Unwanted
+908,1834,Too large
+909,1835,Quality issue
+910,1836,Quality issue
+911,1837,Too small
+912,1839,Too large
+913,1845,Too large
+914,1846,Quality issue
+915,1851,Too small
+916,1852,Damaged
+917,1853,Too small
+918,1854,Quality issue
+919,1855,Too large
+920,1856,Too small
+921,1857,Damaged
+922,1858,Quality issue
+923,1860,Unwanted
+924,1865,Quality issue
+925,1866,Damaged
+926,1868,Too small
+927,1870,Quality issue
+928,1872,Too small
+929,1873,Too large
+930,1875,Too large
+931,1876,Too large
+932,1877,Too large
+933,1883,Wrong item
+934,1884,Wrong item
+935,1891,Too small
+936,1892,Quality issue
+937,1900,Damaged
+938,1901,Too small
+939,1903,Damaged
+940,1904,Too large
+941,1905,Too small
+942,1906,Unwanted
+943,1907,Too large
+944,1908,Damaged
+945,1909,Quality issue
+946,1913,Too large
+947,1917,Too large
+948,1918,Too large
+949,1919,Damaged
+950,1920,Unwanted
+951,1921,Too small
+952,1923,Wrong item
+953,1927,Too small
+954,1928,Wrong item
+955,1930,Quality issue
+956,1931,Too small
+957,1932,Quality issue
+958,1933,Too small
+959,1935,Too small
+960,1936,Too small
+961,1939,Wrong item
+962,1945,Too small
+963,1947,Too small
+964,1948,Too small
+965,1950,Too small
+966,1951,Too large
+967,1952,Too large
+968,1956,Too small
+969,1958,Unwanted
+970,1959,Too small
+971,1961,Unwanted
+972,1962,Quality issue
+973,1965,Unwanted
+974,1968,Too large
+975,1971,Too small
+976,1972,Too small
+977,1974,Quality issue
+978,1976,Too large
+979,1977,Too large
+980,1979,Too small
+981,1980,Too large
+982,1981,Too small
+983,1984,Too large
+984,1989,Too small
+985,1991,Too small
+986,1992,Unwanted
+987,1994,Too small
+988,1996,Too large
+989,1997,Quality issue
+990,1998,Unwanted
+991,2003,Too large
+992,2004,Too large
+993,2006,Too small
+994,2007,Too large
+995,2011,Too small
+996,2014,Too large
+997,2015,Too small
+998,2016,Too large
+999,2017,Too large
+1000,2022,Too small
+1001,2028,Too small
+1002,2031,Quality issue
+1003,2032,Too large
+1004,2034,Unwanted
+1005,2035,Damaged
+1006,2036,Too small
+1007,2038,Wrong item
+1008,2041,Too small
+1009,2044,Unwanted
+1010,2045,Unwanted
+1011,2048,Quality issue
+1012,2050,Too large
+1013,2054,Too large
+1014,2057,Damaged
+1015,2058,Too large
+1016,2059,Too small
+1017,2063,Too small
+1018,2064,Too small
+1019,2067,Damaged
+1020,2068,Too small
+1021,2069,Too small
+1022,2073,Unwanted
+1023,2077,Too small
+1024,2079,Wrong item
+1025,2082,Wrong item
+1026,2084,Quality issue
+1027,2086,Too small
+1028,2090,Too large
+1029,2091,Too large
+1030,2092,Too small
+1031,2093,Wrong item
+1032,2094,Too small
+1033,2095,Unwanted
+1034,2096,Too large
+1035,2097,Damaged
+1036,2098,Too large
+1037,2105,Wrong item
+1038,2107,Too large
+1039,2112,Unwanted
+1040,2113,Too small
+1041,2115,Too large
+1042,2116,Too large
+1043,2118,Too large
+1044,2119,Unwanted
+1045,2121,Too small
+1046,2122,Too large
+1047,2125,Too large
+1048,2126,Too small
+1049,2127,Damaged
+1050,2130,Too large
+1051,2134,Too small
+1052,2135,Damaged
+1053,2137,Damaged
+1054,2138,Too small
+1055,2142,Too small
+1056,2143,Too small
+1057,2144,Damaged
+1058,2146,Too small
+1059,2148,Too large
+1060,2151,Unwanted
+1061,2154,Too large
+1062,2155,Too large
+1063,2156,Quality issue
+1064,2157,Unwanted
+1065,2158,Too large
+1066,2159,Too large
+1067,2160,Wrong item
+1068,2161,Wrong item
+1069,2164,Too large
+1070,2166,Wrong item
+1071,2167,Too small
+1072,2169,Too small
+1073,2170,Too small
+1074,2172,Too small
+1075,2173,Too small
+1076,2174,Too small
+1077,2176,Too small
+1078,2177,Too large
+1079,2178,Too large
+1080,2181,Wrong item
+1081,2183,Too large
+1082,2185,Too small
+1083,2186,Too small
+1084,2187,Too large
+1085,2189,Too large
+1086,2191,Unwanted
+1087,2192,Damaged
+1088,2193,Damaged
+1089,2194,Too large
+1090,2198,Unwanted
+1091,2199,Unwanted
+1092,2201,Wrong item
+1093,2202,Too small
+1094,2205,Too small
+1095,2207,Wrong item
+1096,2210,Too small
+1097,2211,Too large
+1098,2215,Damaged
+1099,2217,Wrong item
+1100,2219,Too small
+1101,2220,Too small
+1102,2221,Damaged
+1103,2222,Unwanted
+1104,2223,Too large
+1105,2226,Too large
+1106,2227,Too large
+1107,2229,Too small
+1108,2230,Too small
+1109,2231,Too large
+1110,2232,Too small
+1111,2234,Too small
+1112,2240,Too small
+1113,2242,Too small
+1114,2246,Too small
+1115,2247,Quality issue
+1116,2248,Damaged
+1117,2250,Too small
+1118,2251,Too large
+1119,2252,Too large
+1120,2255,Too large
+1121,2259,Too large
+1122,2260,Unwanted
+1123,2264,Too small
+1124,2266,Too large
+1125,2267,Too small
+1126,2268,Damaged
+1127,2269,Quality issue
+1128,2270,Damaged
+1129,2275,Quality issue
+1130,2278,Too small
+1131,2279,Damaged
+1132,2280,Too large
+1133,2281,Too small
+1134,2284,Too small
+1135,2286,Unwanted
+1136,2287,Too small
+1137,2288,Unwanted
+1138,2290,Too large
+1139,2291,Too large
+1140,2292,Quality issue
+1141,2293,Too small
+1142,2295,Too small
+1143,2299,Damaged
+1144,2302,Too large
+1145,2303,Too small
+1146,2304,Wrong item
+1147,2307,Too large
+1148,2310,Too small
+1149,2311,Too small
+1150,2313,Quality issue
+1151,2314,Too large
+1152,2316,Too large
+1153,2317,Wrong item
+1154,2318,Too small
+1155,2319,Too large
+1156,2322,Too small
+1157,2325,Wrong item
+1158,2326,Too large
+1159,2327,Wrong item
+1160,2328,Too small
+1161,2329,Too small
+1162,2333,Unwanted
+1163,2334,Too small
+1164,2336,Damaged
+1165,2340,Damaged
+1166,2342,Too small
+1167,2345,Too small
+1168,2346,Too large
+1169,2347,Too large
+1170,2348,Too small
+1171,2349,Too small
+1172,2350,Too small
+1173,2352,Too large
+1174,2353,Too small
+1175,2354,Wrong item
+1176,2363,Too small
+1177,2366,Too small
+1178,2368,Too small
+1179,2374,Too small
+1180,2377,Damaged
+1181,2379,Too large
+1182,2380,Quality issue
+1183,2381,Damaged
+1184,2382,Wrong item
+1185,2383,Damaged
+1186,2385,Damaged
+1187,2387,Too large
+1188,2389,Too small
+1189,2390,Unwanted
+1190,2391,Too small
+1191,2392,Unwanted
+1192,2394,Too large
+1193,2396,Too small
+1194,2398,Damaged
+1195,2400,Quality issue
+1196,2401,Unwanted
+1197,2406,Too small
+1198,2407,Too large
+1199,2408,Damaged
+1200,2411,Unwanted
+1201,2415,Too small
+1202,2417,Too small
+1203,2418,Quality issue
+1204,2419,Too small
+1205,2420,Too large
+1206,2423,Too small
+1207,2424,Wrong item
+1208,2425,Wrong item
+1209,2427,Too large
+1210,2430,Too small
+1211,2432,Too large
+1212,2433,Quality issue
+1213,2434,Too large
+1214,2436,Too small
+1215,2437,Too large
+1216,2438,Too small
+1217,2440,Too small
+1218,2442,Too large
+1219,2443,Unwanted
+1220,2444,Too large
+1221,2446,Too large
+1222,2448,Too large
+1223,2449,Too large
+1224,2453,Wrong item
+1225,2454,Too small
+1226,2455,Damaged
+1227,2457,Too small
+1228,2458,Unwanted
+1229,2459,Quality issue
+1230,2461,Too large
+1231,2462,Too small
+1232,2463,Too small
+1233,2465,Too large
+1234,2466,Too large
+1235,2469,Too large
+1236,2470,Too small
+1237,2471,Too large
+1238,2473,Unwanted
+1239,2475,Too large
+1240,2477,Too small
+1241,2478,Too small
+1242,2480,Damaged
+1243,2482,Too large
+1244,2484,Too large
+1245,2485,Too large
+1246,2488,Wrong item
+1247,2489,Unwanted
+1248,2490,Too large
+1249,2491,Unwanted
+1250,2494,Quality issue
+1251,2496,Too large
+1252,2497,Too small
+1253,2503,Too large
+1254,2504,Damaged
+1255,2505,Too small
+1256,2509,Quality issue
+1257,2511,Wrong item
+1258,2514,Too large
+1259,2516,Unwanted
+1260,2519,Too small
+1261,2521,Too small
+1262,2522,Wrong item
+1263,2523,Quality issue
+1264,2527,Too small
+1265,2528,Too large
+1266,2529,Too large
+1267,2531,Too large
+1268,2533,Too large
+1269,2538,Too small
+1270,2540,Wrong item
+1271,2542,Too large
+1272,2543,Too small
+1273,2545,Unwanted
+1274,2548,Too small
+1275,2549,Too large
+1276,2550,Damaged
+1277,2551,Too large
+1278,2553,Too small
+1279,2556,Too small
+1280,2557,Unwanted
+1281,2558,Too small
+1282,2565,Too large
+1283,2566,Too small
+1284,2570,Too large
+1285,2571,Unwanted
+1286,2572,Too small
+1287,2574,Too small
+1288,2576,Too small
+1289,2578,Damaged
+1290,2579,Unwanted
+1291,2584,Too large
+1292,2585,Too small
+1293,2587,Unwanted
+1294,2588,Too small
+1295,2589,Too large
+1296,2592,Too small
+1297,2593,Quality issue
+1298,2595,Too small
+1299,2596,Too small
+1300,2598,Quality issue
+1301,2600,Too small
+1302,2601,Quality issue
+1303,2602,Too large
+1304,2603,Too small
+1305,2604,Too small
+1306,2607,Wrong item
+1307,2608,Too small
+1308,2610,Too small
+1309,2612,Too small
+1310,2614,Too large
+1311,2619,Too small
+1312,2622,Unwanted
+1313,2623,Too large
+1314,2624,Unwanted
+1315,2625,Too large
+1316,2627,Unwanted
+1317,2628,Too small
+1318,2630,Too small
+1319,2633,Wrong item
+1320,2636,Too small
+1321,2637,Quality issue
+1322,2639,Too small
+1323,2640,Wrong item
+1324,2641,Damaged
+1325,2643,Too small
+1326,2645,Too small
+1327,2648,Too large
+1328,2649,Too small
+1329,2650,Too small
+1330,2652,Too small
+1331,2653,Too small
+1332,2655,Too small
+1333,2659,Damaged
+1334,2660,Too small
+1335,2662,Too large
+1336,2665,Too large
+1337,2667,Too small
+1338,2669,Wrong item
+1339,2670,Too large
+1340,2672,Too small
+1341,2674,Unwanted
+1342,2678,Damaged
+1343,2680,Quality issue
+1344,2684,Damaged
+1345,2686,Damaged
+1346,2688,Quality issue
+1347,2689,Too small
+1348,2692,Damaged
+1349,2695,Too small
+1350,2697,Wrong item
+1351,2702,Too small
+1352,2704,Quality issue
+1353,2706,Damaged
+1354,2708,Quality issue
+1355,2709,Wrong item
+1356,2716,Too small
+1357,2719,Quality issue
+1358,2722,Too small
+1359,2723,Unwanted
+1360,2724,Too large
+1361,2727,Unwanted
+1362,2728,Quality issue
+1363,2729,Too small
+1364,2732,Unwanted
+1365,2733,Too large
+1366,2734,Too small
+1367,2737,Damaged
+1368,2740,Too small
+1369,2742,Unwanted
+1370,2746,Too large
+1371,2751,Too small
+1372,2753,Too small
+1373,2755,Too small
+1374,2759,Unwanted
+1375,2760,Too large
+1376,2761,Too large
+1377,2763,Too small
+1378,2765,Too large
+1379,2767,Too large
+1380,2769,Unwanted
+1381,2774,Too small
+1382,2777,Too small
+1383,2779,Too small
+1384,2781,Quality issue
+1385,2783,Damaged
+1386,2784,Damaged
+1387,2785,Too large
+1388,2789,Damaged
+1389,2791,Too small
+1390,2792,Too small
+1391,2795,Too small
+1392,2801,Too large
+1393,2803,Damaged
+1394,2804,Too large
+1395,2805,Quality issue
+1396,2811,Too small
+1397,2812,Unwanted
+1398,2813,Unwanted
+1399,2814,Too large
+1400,2816,Too small
+1401,2818,Wrong item
+1402,2820,Too large
+1403,2822,Too small
+1404,2825,Too large
+1405,2826,Quality issue
+1406,2827,Too large
+1407,2831,Damaged
+1408,2835,Wrong item
+1409,2836,Wrong item
+1410,2837,Too large
+1411,2838,Too large
+1412,2840,Too large
+1413,2841,Wrong item
+1414,2842,Too large
+1415,2843,Too small
+1416,2846,Unwanted
+1417,2847,Unwanted
+1418,2851,Damaged
+1419,2852,Too large
+1420,2853,Too large
+1421,2854,Damaged
+1422,2856,Too large
+1423,2857,Too small
+1424,2859,Too small
+1425,2860,Wrong item
+1426,2861,Too large
+1427,2862,Quality issue
+1428,2863,Too small
+1429,2866,Too small
+1430,2868,Too large
+1431,2871,Wrong item
+1432,2873,Too large
+1433,2874,Too large
+1434,2878,Too small
+1435,2882,Unwanted
+1436,2883,Too small
+1437,2887,Damaged
+1438,2888,Too small
+1439,2890,Unwanted
+1440,2893,Unwanted
+1441,2894,Too small
+1442,2895,Too large
+1443,2896,Damaged
+1444,2897,Quality issue
+1445,2898,Too small
+1446,2899,Too small
+1447,2900,Too large
+1448,2901,Too small
+1449,2902,Wrong item
+1450,2903,Quality issue
+1451,2904,Damaged
+1452,2908,Too large
+1453,2909,Too large
+1454,2912,Too small
+1455,2915,Too small
+1456,2916,Too small
+1457,2917,Too large
+1458,2918,Too large
+1459,2919,Too small
+1460,2920,Too large
+1461,2922,Too small
+1462,2923,Too large
+1463,2924,Too large
+1464,2926,Wrong item
+1465,2927,Too small
+1466,2928,Too small
+1467,2929,Unwanted
+1468,2931,Quality issue
+1469,2932,Too small
+1470,2933,Unwanted
+1471,2934,Too small
+1472,2936,Unwanted
+1473,2939,Wrong item
+1474,2940,Too large
+1475,2941,Quality issue
+1476,2944,Too large
+1477,2945,Too small
+1478,2946,Wrong item
+1479,2953,Wrong item
+1480,2954,Too small
+1481,2961,Too large
+1482,2963,Too large
+1483,2965,Too small
+1484,2966,Too large
+1485,2972,Damaged
+1486,2973,Too large
+1487,2974,Wrong item
+1488,2976,Too small
+1489,2979,Damaged
+1490,2980,Quality issue
+1491,2981,Too small
+1492,2982,Quality issue
+1493,2983,Too small
+1494,2986,Too small
+1495,2988,Too small
+1496,2990,Quality issue
+1497,2991,Too small
+1498,2993,Too large
+1499,2999,Too small
+1500,3001,Wrong item
+1501,3002,Too small
+1502,3003,Too large
+1503,3004,Too small
+1504,3005,Too small
+1505,3007,Too large
+1506,3008,Too large
+1507,3009,Quality issue
+1508,3010,Quality issue
+1509,3011,Quality issue
+1510,3013,Damaged
+1511,3014,Unwanted
+1512,3015,Too large
+1513,3017,Too small
+1514,3023,Unwanted
+1515,3026,Too small
+1516,3027,Too large
+1517,3028,Wrong item
+1518,3031,Too large
+1519,3032,Too small
+1520,3035,Damaged
+1521,3037,Too large
+1522,3038,Too large
+1523,3039,Damaged
+1524,3041,Too small
+1525,3042,Too large
+1526,3043,Quality issue
+1527,3045,Quality issue
+1528,3047,Too small
+1529,3048,Too small
+1530,3050,Too small
+1531,3051,Wrong item
+1532,3052,Damaged
+1533,3054,Too small
+1534,3055,Too small
+1535,3056,Damaged
+1536,3058,Too small
+1537,3061,Quality issue
+1538,3062,Too large
+1539,3063,Too large
+1540,3064,Damaged
+1541,3065,Too small
+1542,3068,Quality issue
+1543,3069,Too large
+1544,3071,Unwanted
+1545,3072,Too large
+1546,3073,Too small
+1547,3075,Quality issue
+1548,3076,Damaged
+1549,3077,Wrong item
+1550,3080,Too large
+1551,3083,Damaged
+1552,3084,Wrong item
+1553,3085,Too large
+1554,3087,Too small
+1555,3089,Too small
+1556,3090,Wrong item
+1557,3097,Unwanted
+1558,3098,Unwanted
+1559,3099,Too large
+1560,3100,Too large
+1561,3101,Too large
+1562,3102,Too small
+1563,3104,Quality issue
+1564,3105,Too small
+1565,3106,Too small
+1566,3110,Too small
+1567,3111,Unwanted
+1568,3115,Damaged
+1569,3116,Too large
+1570,3121,Too large
+1571,3124,Too small
+1572,3126,Too large
+1573,3133,Damaged
+1574,3134,Too small
+1575,3136,Unwanted
+1576,3137,Quality issue
+1577,3140,Wrong item
+1578,3141,Damaged
+1579,3143,Too large
+1580,3144,Too small
+1581,3148,Too small
+1582,3149,Too large
+1583,3151,Too large
+1584,3152,Wrong item
+1585,3155,Too small
+1586,3157,Too large
+1587,3160,Too small
+1588,3162,Unwanted
+1589,3166,Damaged
+1590,3168,Wrong item
+1591,3169,Wrong item
+1592,3172,Quality issue
+1593,3175,Damaged
+1594,3176,Unwanted
+1595,3177,Unwanted
+1596,3178,Too small
+1597,3179,Unwanted
+1598,3180,Too small
+1599,3181,Too small
+1600,3182,Too small
+1601,3183,Too large
+1602,3186,Too small
+1603,3189,Too small
+1604,3192,Too small
+1605,3196,Too large
+1606,3197,Wrong item
+1607,3199,Quality issue
+1608,3200,Wrong item
+1609,3201,Wrong item
+1610,3202,Too small
+1611,3203,Too small
+1612,3209,Too large
+1613,3214,Quality issue
+1614,3215,Too large
+1615,3216,Too large
+1616,3218,Quality issue
+1617,3219,Too large
+1618,3221,Unwanted
+1619,3223,Quality issue
+1620,3224,Too large
+1621,3230,Wrong item
+1622,3231,Unwanted
+1623,3233,Too small
+1624,3234,Damaged
+1625,3236,Too small
+1626,3237,Too large
+1627,3239,Damaged
+1628,3244,Quality issue
+1629,3246,Too large
+1630,3248,Wrong item
+1631,3249,Quality issue
+1632,3252,Too large
+1633,3253,Too small
+1634,3255,Too small
+1635,3256,Too small
+1636,3257,Too large
+1637,3259,Too small
+1638,3262,Quality issue
+1639,3264,Too small
+1640,3265,Quality issue
+1641,3271,Wrong item
+1642,3276,Quality issue
+1643,3277,Too large
+1644,3278,Too large
+1645,3279,Unwanted
+1646,3286,Quality issue
+1647,3288,Too large
+1648,3289,Too small
+1649,3290,Too large
+1650,3291,Too large
+1651,3292,Damaged
+1652,3293,Damaged
+1653,3297,Wrong item
+1654,3298,Too small
+1655,3299,Quality issue
+1656,3300,Wrong item
+1657,3303,Too large
+1658,3306,Too large
+1659,3307,Too large
+1660,3308,Quality issue
+1661,3311,Damaged
+1662,3316,Too large
+1663,3317,Too small
+1664,3318,Too large
+1665,3319,Too small
+1666,3321,Wrong item
+1667,3322,Quality issue
+1668,3323,Too small
+1669,3327,Too small
+1670,3328,Too large
+1671,3330,Too large
+1672,3334,Too large
+1673,3335,Too small
+1674,3337,Too large
+1675,3338,Unwanted
+1676,3339,Too small
+1677,3340,Quality issue
+1678,3343,Unwanted
+1679,3348,Too large
+1680,3355,Too small
+1681,3357,Too large
+1682,3360,Too large
+1683,3364,Wrong item
+1684,3365,Wrong item
+1685,3366,Too small
+1686,3367,Wrong item
+1687,3370,Too large
+1688,3371,Wrong item
+1689,3373,Wrong item
+1690,3374,Quality issue
+1691,3375,Damaged
+1692,3376,Wrong item
+1693,3379,Wrong item
+1694,3382,Damaged
+1695,3384,Too small
+1696,3385,Too large
+1697,3387,Too small
+1698,3388,Too small
+1699,3389,Too small
+1700,3390,Quality issue
+1701,3391,Too small
+1702,3393,Too large
+1703,3394,Wrong item
+1704,3395,Unwanted
+1705,3396,Too large
+1706,3397,Too large
+1707,3401,Wrong item
+1708,3402,Unwanted
+1709,3405,Damaged
+1710,3406,Too large
+1711,3407,Quality issue
+1712,3409,Too large
+1713,3411,Too small
+1714,3412,Too small
+1715,3413,Damaged
+1716,3417,Too large
+1717,3418,Too large
+1718,3420,Wrong item
+1719,3421,Damaged
+1720,3422,Wrong item
+1721,3423,Too small
+1722,3430,Too large
+1723,3432,Too small
+1724,3435,Quality issue
+1725,3437,Too small
+1726,3439,Too small
+1727,3440,Too small
+1728,3441,Wrong item
+1729,3442,Unwanted
+1730,3443,Unwanted
+1731,3444,Quality issue
+1732,3445,Too small
+1733,3446,Wrong item
+1734,3447,Too large
+1735,3448,Quality issue
+1736,3449,Unwanted
+1737,3450,Too large
+1738,3451,Unwanted
+1739,3452,Too small
+1740,3453,Too small
+1741,3457,Wrong item
+1742,3458,Too large
+1743,3461,Damaged
+1744,3463,Too small
+1745,3464,Too large
+1746,3465,Quality issue
+1747,3466,Wrong item
+1748,3467,Damaged
+1749,3469,Too large
+1750,3470,Wrong item
+1751,3477,Too large
+1752,3478,Quality issue
+1753,3480,Too large
+1754,3481,Too small
+1755,3482,Too large
+1756,3483,Quality issue
+1757,3487,Wrong item
+1758,3488,Too small
+1759,3489,Too large
+1760,3490,Too large
+1761,3491,Damaged
+1762,3495,Too large
+1763,3496,Damaged
+1764,3497,Wrong item
+1765,3503,Too large
+1766,3505,Too large
+1767,3509,Wrong item
+1768,3510,Quality issue
+1769,3511,Too small
+1770,3513,Damaged
+1771,3514,Damaged
+1772,3516,Too large
+1773,3517,Too small
+1774,3518,Unwanted
+1775,3520,Damaged
+1776,3522,Quality issue
+1777,3523,Wrong item
+1778,3524,Quality issue
+1779,3533,Too small
+1780,3534,Too small
+1781,3535,Unwanted
+1782,3536,Too small
+1783,3542,Unwanted
+1784,3547,Too small
+1785,3551,Too large
+1786,3554,Too large
+1787,3555,Too large
+1788,3556,Too small
+1789,3558,Too large
+1790,3560,Too small
+1791,3563,Too small
+1792,3564,Too large
+1793,3567,Too large
+1794,3572,Unwanted
+1795,3578,Damaged
+1796,3580,Too small
+1797,3582,Wrong item
+1798,3583,Quality issue
+1799,3584,Unwanted
+1800,3586,Too large
+1801,3589,Too small
+1802,3591,Too small
+1803,3592,Wrong item
+1804,3593,Unwanted
+1805,3594,Quality issue
+1806,3595,Too large
+1807,3596,Unwanted
+1808,3597,Damaged
+1809,3598,Too large
+1810,3600,Quality issue
+1811,3602,Too large
+1812,3603,Unwanted
+1813,3605,Too small
+1814,3606,Too large
+1815,3607,Unwanted
+1816,3610,Damaged
+1817,3611,Wrong item
+1818,3612,Too small
+1819,3615,Too small
+1820,3616,Too small
+1821,3617,Too small
+1822,3619,Quality issue
+1823,3622,Too large
+1824,3623,Too small
+1825,3624,Wrong item
+1826,3627,Unwanted
+1827,3629,Too small
+1828,3630,Too large
+1829,3631,Quality issue
+1830,3632,Wrong item
+1831,3633,Too small
+1832,3635,Too large
+1833,3636,Wrong item
+1834,3637,Too large
+1835,3638,Unwanted
+1836,3643,Damaged
+1837,3644,Too large
+1838,3645,Too large
+1839,3647,Too small
+1840,3649,Too small
+1841,3650,Too small
+1842,3653,Too small
+1843,3654,Too large
+1844,3655,Too large
+1845,3656,Too small
+1846,3657,Unwanted
+1847,3659,Too large
+1848,3660,Damaged
+1849,3661,Too large
+1850,3663,Wrong item
+1851,3664,Too small
+1852,3667,Damaged
+1853,3668,Too small
+1854,3670,Quality issue
+1855,3672,Unwanted
+1856,3675,Too large
+1857,3676,Quality issue
+1858,3680,Unwanted
+1859,3681,Too small
+1860,3682,Quality issue
+1861,3684,Too small
+1862,3685,Too large
+1863,3687,Too large
+1864,3689,Too large
+1865,3692,Quality issue
+1866,3696,Damaged
+1867,3699,Unwanted
+1868,3701,Unwanted
+1869,3702,Too small
+1870,3703,Damaged
+1871,3706,Too large
+1872,3710,Too large
+1873,3712,Unwanted
+1874,3713,Too large
+1875,3714,Damaged
+1876,3715,Wrong item
+1877,3723,Too large
+1878,3725,Too large
+1879,3728,Too large
+1880,3730,Wrong item
+1881,3731,Unwanted
+1882,3736,Quality issue
+1883,3737,Quality issue
+1884,3739,Too small
+1885,3740,Too large
+1886,3741,Too small
+1887,3742,Quality issue
+1888,3743,Wrong item
+1889,3745,Unwanted
+1890,3747,Quality issue
+1891,3749,Too small
+1892,3751,Damaged
+1893,3753,Too small
+1894,3754,Too small
+1895,3755,Too small
+1896,3758,Too large
+1897,3759,Too small
+1898,3760,Wrong item
+1899,3761,Quality issue
+1900,3763,Too large
+1901,3764,Too large
+1902,3765,Too large
+1903,3766,Quality issue
+1904,3770,Too small
+1905,3772,Too small
+1906,3773,Too small
+1907,3775,Too small
+1908,3778,Too small
+1909,3779,Too large
+1910,3780,Too small
+1911,3782,Quality issue
+1912,3784,Unwanted
+1913,3787,Too small
+1914,3788,Unwanted
+1915,3789,Too large
+1916,3792,Unwanted
+1917,3796,Wrong item
+1918,3798,Unwanted
+1919,3799,Too small
+1920,3800,Damaged
+1921,3802,Too large
+1922,3803,Damaged
+1923,3804,Too small
+1924,3805,Unwanted
+1925,3809,Wrong item
+1926,3810,Too small
+1927,3811,Too large
+1928,3813,Quality issue
+1929,3815,Too large
+1930,3817,Too large
+1931,3818,Wrong item
+1932,3821,Damaged
+1933,3823,Too small
+1934,3828,Too large
+1935,3829,Too small
+1936,3835,Too small
+1937,3841,Too large
+1938,3842,Damaged
+1939,3849,Too small
+1940,3850,Too large
+1941,3852,Wrong item
+1942,3853,Too large
+1943,3855,Too large
+1944,3857,Too large
+1945,3862,Too small
+1946,3863,Unwanted
+1947,3864,Quality issue
+1948,3866,Quality issue
+1949,3867,Unwanted
+1950,3872,Too large
+1951,3875,Too large
+1952,3878,Unwanted
+1953,3884,Unwanted
+1954,3888,Too small
+1955,3890,Too large
+1956,3892,Too small
+1957,3894,Too large
+1958,3897,Quality issue
+1959,3898,Too small
+1960,3899,Unwanted
+1961,3900,Too large
+1962,3902,Quality issue
+1963,3903,Too large
+1964,3904,Too large
+1965,3906,Too large
+1966,3912,Too large
+1967,3913,Too large
+1968,3915,Too small
+1969,3917,Damaged
+1970,3921,Too large
+1971,3924,Too large
+1972,3925,Too small
+1973,3927,Too small
+1974,3929,Too small
+1975,3931,Too small
+1976,3932,Damaged
+1977,3933,Too large
+1978,3934,Too small
+1979,3936,Wrong item
+1980,3937,Unwanted
+1981,3939,Quality issue
+1982,3940,Unwanted
+1983,3946,Too large
+1984,3949,Too small
+1985,3950,Too large
+1986,3951,Too small
+1987,3953,Too large
+1988,3955,Too large
+1989,3956,Wrong item
+1990,3959,Damaged
+1991,3960,Too large
+1992,3964,Too small
+1993,3965,Quality issue
+1994,3968,Too large
+1995,3970,Quality issue
+1996,3971,Too large
+1997,3972,Damaged
+1998,3976,Too small
+1999,3977,Too large
+2000,3981,Too large
+2001,3982,Damaged
+2002,3983,Unwanted
+2003,3984,Damaged
+2004,3986,Too small
+2005,3987,Too large
+2006,3988,Too small
+2007,3989,Too small
+2008,3993,Too small
+2009,3996,Too small
+2010,3998,Too large
+2011,4002,Too large
+2012,4004,Too large
+2013,4006,Damaged
+2014,4010,Wrong item
+2015,4011,Too large
+2016,4013,Too small
+2017,4015,Too large
+2018,4017,Too small
+2019,4019,Too large
+2020,4020,Too large
+2021,4021,Too small
+2022,4023,Too small
+2023,4024,Too small
+2024,4025,Too small
+2025,4026,Wrong item
+2026,4027,Quality issue
+2027,4028,Too small
+2028,4030,Too large
+2029,4033,Too small
+2030,4035,Too small
+2031,4036,Too large
+2032,4039,Too small
+2033,4040,Damaged
+2034,4041,Damaged
+2035,4042,Unwanted
+2036,4043,Damaged
+2037,4046,Quality issue
+2038,4047,Quality issue
+2039,4049,Too small
+2040,4050,Wrong item
+2041,4052,Too large
+2042,4053,Too large
+2043,4054,Quality issue
+2044,4055,Too large
+2045,4057,Quality issue
+2046,4058,Too small
+2047,4059,Too large
+2048,4060,Damaged
+2049,4061,Wrong item
+2050,4063,Wrong item
+2051,4065,Too small
+2052,4066,Too small
+2053,4067,Damaged
+2054,4071,Wrong item
+2055,4073,Wrong item
+2056,4077,Too large
+2057,4078,Unwanted
+2058,4080,Quality issue
+2059,4085,Too large
+2060,4086,Too large
+2061,4089,Too small
+2062,4090,Too large
+2063,4091,Quality issue
+2064,4093,Damaged
+2065,4095,Too large
+2066,4097,Wrong item
+2067,4100,Too small
+2068,4103,Too small
+2069,4107,Quality issue
+2070,4113,Unwanted
+2071,4114,Unwanted
+2072,4116,Quality issue
+2073,4117,Unwanted
+2074,4118,Unwanted
+2075,4120,Damaged
+2076,4122,Too large
+2077,4130,Too small
+2078,4131,Too large
+2079,4134,Too small
+2080,4136,Unwanted
+2081,4140,Too large
+2082,4143,Unwanted
+2083,4144,Damaged
+2084,4145,Too small
+2085,4148,Too large
+2086,4150,Quality issue
+2087,4154,Unwanted
+2088,4155,Damaged
+2089,4156,Too large
+2090,4157,Too large
+2091,4158,Too large
+2092,4159,Unwanted
+2093,4160,Too large
+2094,4161,Too large
+2095,4162,Too small
+2096,4163,Too small
+2097,4165,Quality issue
+2098,4166,Wrong item
+2099,4170,Too small
+2100,4171,Too small
+2101,4172,Unwanted
+2102,4174,Wrong item
+2103,4178,Too large
+2104,4180,Quality issue
+2105,4181,Too large
+2106,4185,Unwanted
+2107,4188,Quality issue
+2108,4192,Too large
+2109,4193,Too large
+2110,4194,Damaged
+2111,4195,Too small
+2112,4196,Too small
+2113,4199,Too small
+2114,4202,Too small
+2115,4204,Too small
+2116,4206,Too large
+2117,4207,Too small
+2118,4209,Quality issue
+2119,4211,Too small
+2120,4212,Quality issue
+2121,4213,Too small
+2122,4214,Unwanted
+2123,4215,Wrong item
+2124,4219,Too large
+2125,4220,Wrong item
+2126,4223,Quality issue
+2127,4224,Too small
+2128,4228,Wrong item
+2129,4229,Too small
+2130,4231,Too small
+2131,4240,Too large
+2132,4242,Wrong item
+2133,4243,Unwanted
+2134,4244,Quality issue
+2135,4248,Too small
+2136,4249,Too large
+2137,4250,Too large
+2138,4251,Too small
+2139,4254,Too large
+2140,4256,Quality issue
+2141,4257,Unwanted
+2142,4258,Too large
+2143,4265,Too small
+2144,4269,Too small
+2145,4272,Wrong item
+2146,4277,Too large
+2147,4278,Too large
+2148,4281,Wrong item
+2149,4282,Too large
+2150,4284,Quality issue
+2151,4285,Damaged
+2152,4286,Quality issue
+2153,4288,Damaged
+2154,4291,Too small
+2155,4292,Unwanted
+2156,4293,Wrong item
+2157,4294,Damaged
+2158,4295,Unwanted
+2159,4296,Too small
+2160,4299,Too small
+2161,4301,Too large
+2162,4302,Damaged
+2163,4304,Damaged
+2164,4305,Too large
+2165,4306,Too small
+2166,4310,Too large
+2167,4311,Too small
+2168,4313,Too small
+2169,4314,Quality issue
+2170,4316,Quality issue
+2171,4319,Quality issue
+2172,4320,Too small
+2173,4328,Unwanted
+2174,4329,Damaged
+2175,4331,Too large
+2176,4340,Quality issue
+2177,4341,Too small
+2178,4342,Too large
+2179,4343,Quality issue
+2180,4347,Too large
+2181,4349,Unwanted
+2182,4350,Too large
+2183,4351,Too small
+2184,4355,Too large
+2185,4356,Quality issue
+2186,4357,Too small
+2187,4359,Too small
+2188,4361,Wrong item
+2189,4363,Unwanted
+2190,4365,Quality issue
+2191,4366,Too small
+2192,4368,Too large
+2193,4369,Too large
+2194,4371,Wrong item
+2195,4375,Too small
+2196,4376,Too large
+2197,4377,Too large
+2198,4384,Too small
+2199,4387,Unwanted
+2200,4388,Too small
+2201,4392,Unwanted
+2202,4394,Too small
+2203,4399,Too small
+2204,4400,Too small
+2205,4401,Too large
+2206,4402,Too large
+2207,4403,Damaged
+2208,4405,Unwanted
+2209,4406,Too large
+2210,4407,Too small
+2211,4408,Too large
+2212,4409,Too small
+2213,4411,Too small
+2214,4413,Damaged
+2215,4415,Too small
+2216,4420,Too small
+2217,4423,Damaged
+2218,4424,Unwanted
+2219,4427,Unwanted
+2220,4428,Too small
+2221,4429,Too large
+2222,4434,Too small
+2223,4435,Too large
+2224,4439,Too large
+2225,4440,Too small
+2226,4441,Unwanted
+2227,4442,Too large
+2228,4444,Damaged
+2229,4446,Too large
+2230,4450,Quality issue
+2231,4455,Too large
+2232,4456,Too large
+2233,4457,Too small
+2234,4458,Too small
+2235,4459,Unwanted
+2236,4460,Too small
+2237,4461,Too large
+2238,4462,Too small
+2239,4463,Too large
+2240,4465,Too small
+2241,4467,Damaged
+2242,4469,Quality issue
+2243,4470,Too small
+2244,4471,Too small
+2245,4473,Too large
+2246,4477,Too large
+2247,4478,Quality issue
+2248,4479,Quality issue
+2249,4481,Quality issue
+2250,4483,Too large
+2251,4484,Damaged
+2252,4487,Too small
+2253,4488,Damaged
+2254,4489,Wrong item
+2255,4491,Too large
+2256,4493,Quality issue
+2257,4495,Too small
+2258,4499,Unwanted
+2259,4503,Wrong item
+2260,4508,Quality issue
+2261,4509,Quality issue
+2262,4511,Wrong item
+2263,4512,Too large
+2264,4513,Too large
+2265,4515,Too small
+2266,4517,Too small
+2267,4518,Too large
+2268,4520,Too small
+2269,4522,Too small
+2270,4523,Damaged
+2271,4524,Unwanted
+2272,4528,Quality issue
+2273,4532,Too large
+2274,4533,Wrong item
+2275,4534,Too small
+2276,4540,Too large
+2277,4545,Wrong item
+2278,4547,Wrong item
+2279,4548,Too small
+2280,4552,Too small
+2281,4553,Too large
+2282,4554,Wrong item
+2283,4557,Too large
+2284,4558,Too small
+2285,4559,Too small
+2286,4561,Too small
+2287,4562,Too large
+2288,4564,Too large
+2289,4565,Quality issue
+2290,4567,Too small
+2291,4569,Too large
+2292,4570,Too small
+2293,4571,Too small
+2294,4573,Damaged
+2295,4574,Wrong item
+2296,4577,Too small
+2297,4581,Too small
+2298,4583,Quality issue
+2299,4584,Unwanted
+2300,4586,Too small
+2301,4587,Too large
+2302,4588,Too small
+2303,4591,Wrong item
+2304,4593,Too large
+2305,4595,Wrong item
+2306,4599,Too small
+2307,4601,Too small
+2308,4602,Wrong item
+2309,4603,Too small
+2310,4604,Too large
+2311,4607,Quality issue
+2312,4608,Too small
+2313,4611,Too large
+2314,4615,Damaged
+2315,4616,Too large
+2316,4617,Too small
+2317,4619,Too small
+2318,4622,Too small
+2319,4624,Unwanted
+2320,4626,Damaged
+2321,4627,Too large
+2322,4629,Damaged
+2323,4630,Too large
+2324,4632,Too large
+2325,4633,Unwanted
+2326,4634,Quality issue
+2327,4635,Damaged
+2328,4637,Too small
+2329,4638,Damaged
+2330,4639,Too small
+2331,4640,Too small
+2332,4643,Wrong item
+2333,4644,Too large
+2334,4647,Too large
+2335,4648,Damaged
+2336,4649,Unwanted
+2337,4653,Damaged
+2338,4656,Unwanted
+2339,4657,Too large
+2340,4658,Too small
+2341,4659,Too small
+2342,4660,Too large
+2343,4664,Too small
+2344,4665,Quality issue
+2345,4666,Damaged
+2346,4667,Too small
+2347,4669,Wrong item
+2348,4673,Too large
+2349,4676,Too large
+2350,4677,Unwanted
+2351,4682,Wrong item
+2352,4683,Wrong item
+2353,4684,Unwanted
+2354,4685,Unwanted
+2355,4686,Unwanted
+2356,4687,Too small
+2357,4688,Wrong item
+2358,4691,Too small
+2359,4694,Too large
+2360,4696,Damaged
+2361,4697,Too large
+2362,4698,Damaged
+2363,4700,Too large
+2364,4705,Too small
+2365,4709,Unwanted
+2366,4715,Damaged
+2367,4716,Too large
+2368,4717,Too large
+2369,4718,Wrong item
+2370,4719,Wrong item
+2371,4722,Too large
+2372,4724,Too large
+2373,4727,Wrong item
+2374,4729,Too small
+2375,4732,Wrong item
+2376,4733,Wrong item
+2377,4734,Too large
+2378,4739,Too large
+2379,4740,Too large
+2380,4741,Too large
+2381,4744,Too large
+2382,4745,Too large
+2383,4747,Too large
+2384,4748,Too large
+2385,4750,Damaged
+2386,4751,Quality issue
+2387,4756,Too small
+2388,4757,Too small
+2389,4758,Too small
+2390,4759,Too small
+2391,4761,Too large
+2392,4762,Quality issue
+2393,4763,Too large
+2394,4764,Too small
+2395,4765,Quality issue
+2396,4766,Quality issue
+2397,4768,Wrong item
+2398,4772,Too small
+2399,4775,Too large
+2400,4776,Wrong item
+2401,4777,Quality issue
+2402,4779,Too small
+2403,4783,Quality issue
+2404,4786,Damaged
+2405,4787,Too small
+2406,4789,Too large
+2407,4792,Quality issue
+2408,4793,Wrong item
+2409,4794,Too large
+2410,4798,Too large
+2411,4799,Too large
+2412,4800,Too large
+2413,4801,Damaged
+2414,4802,Too small
+2415,4804,Too small
+2416,4809,Wrong item
+2417,4810,Too large
+2418,4811,Too large
+2419,4812,Unwanted
+2420,4814,Unwanted
+2421,4817,Unwanted
+2422,4821,Unwanted
+2423,4822,Too small
+2424,4823,Quality issue
+2425,4824,Damaged
+2426,4828,Too small
+2427,4829,Unwanted
+2428,4830,Too small
+2429,4831,Too small
+2430,4832,Wrong item
+2431,4834,Wrong item
+2432,4836,Too large
+2433,4837,Wrong item
+2434,4838,Unwanted
+2435,4839,Too small
+2436,4840,Damaged
+2437,4841,Too small
+2438,4843,Too small
+2439,4845,Wrong item
+2440,4847,Too large
+2441,4848,Too small
+2442,4849,Too large
+2443,4851,Too small
+2444,4852,Too large
+2445,4854,Too small
+2446,4855,Too small
+2447,4856,Too small
+2448,4857,Too small
+2449,4860,Too small
+2450,4861,Too small
+2451,4862,Too large
+2452,4865,Too large
+2453,4867,Too large
+2454,4869,Too small
+2455,4871,Too large
+2456,4875,Unwanted
+2457,4877,Too large
+2458,4879,Unwanted
+2459,4881,Too large
+2460,4882,Too large
+2461,4883,Too large
+2462,4887,Damaged
+2463,4891,Too small
+2464,4892,Damaged
+2465,4893,Too small
+2466,4897,Too small
+2467,4899,Too small
+2468,4900,Too small
+2469,4903,Too large
+2470,4905,Wrong item
+2471,4906,Too small
+2472,4908,Too small
+2473,4912,Unwanted
+2474,4913,Too small
+2475,4916,Damaged
+2476,4917,Too small
+2477,4921,Too small
+2478,4923,Too large
+2479,4924,Too large
+2480,4925,Quality issue
+2481,4926,Quality issue
+2482,4927,Too large
+2483,4929,Unwanted
+2484,4930,Too large
+2485,4933,Unwanted
+2486,4935,Too small
+2487,4936,Too small
+2488,4939,Too small
+2489,4942,Too large
+2490,4943,Too large
+2491,4945,Too large
+2492,4947,Too small
+2493,4950,Too large
+2494,4951,Too small
+2495,4952,Quality issue
+2496,4953,Too small
+2497,4954,Too small
+2498,4955,Too small
+2499,4959,Quality issue
+2500,4961,Too large
+2501,4962,Wrong item
+2502,4964,Wrong item
+2503,4967,Wrong item
+2504,4968,Damaged
+2505,4971,Too large
+2506,4972,Too large
+2507,4974,Too small
+2508,4975,Too small
+2509,4976,Quality issue
+2510,4977,Too small
+2511,4979,Damaged
+2512,4980,Too large
+2513,4982,Too small
+2514,4984,Too small
+2515,4987,Too large
+2516,4990,Too small
+2517,4992,Unwanted
+2518,4994,Too small
+2519,4995,Too small
+2520,4996,Wrong item
+2521,4998,Quality issue
+2522,4999,Unwanted
