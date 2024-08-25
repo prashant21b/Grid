@@ -18,11 +18,11 @@ from sklearn.preprocessing import StandardScaler
 @st.cache_data
 def load_data():
     try:
-        topwear = pd.read_csv('data/product_details_topwear.csv')
-        bottomwear = pd.read_csv('data/product_details_bottomwear.csv')
-        user_data = pd.read_csv('data/user_data.csv')
-        purchase_data = pd.read_csv('data/purchase_data.csv')
-        return_data = pd.read_csv('data/return_data.csv')
+        topwear = pd.read_csv('./data/product_details_topwear.csv')
+        bottomwear = pd.read_csv('./data/product_details_bottomwear.csv')
+        user_data = pd.read_csv('./data/user_data.csv')
+        purchase_data = pd.read_csv('./data/purchase_data.csv')
+        return_data = pd.read_csv('./data/return_data.csv')
         return topwear, bottomwear, user_data, purchase_data, return_data
     except FileNotFoundError as e:
         st.error(f"Error loading data: {e}")
